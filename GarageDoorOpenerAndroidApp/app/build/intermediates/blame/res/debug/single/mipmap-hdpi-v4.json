@@ -2,5 +2,9 @@
     {
         "merged": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/door.png",
+        "source": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/mipmap-hdpi/door.png"
     }
 ]

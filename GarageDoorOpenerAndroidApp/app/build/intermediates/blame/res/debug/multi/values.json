@@ -4309,9 +4309,9 @@
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 70,
+                        "startOffset": 64,
                         "endColumn": 52,
-                        "endOffset": 118
+                        "endOffset": 112
                     }
                 }
             },
@@ -4320,8 +4320,8 @@
                     "startLine": 272,
                     "startColumn": 4,
                     "startOffset": 37747,
-                    "endColumn": 53,
-                    "endOffset": 37796
+                    "endColumn": 47,
+                    "endOffset": 37790
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/values/strings.xml",
@@ -4329,8 +4329,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 53,
-                        "endOffset": 65
+                        "endColumn": 47,
+                        "endOffset": 59
                     }
                 }
             },
@@ -4338,9 +4338,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 37801,
+                    "startOffset": 37795,
                     "endColumn": 144,
-                    "endOffset": 37941
+                    "endOffset": 37935
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -4357,9 +4357,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 37946,
+                    "startOffset": 37940,
                     "endColumn": 86,
-                    "endOffset": 38028
+                    "endOffset": 38022
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -4376,9 +4376,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 38033,
+                    "startOffset": 38027,
                     "endColumn": 70,
-                    "endOffset": 38099
+                    "endOffset": 38093
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4395,9 +4395,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 38104,
+                    "startOffset": 38098,
                     "endColumn": 77,
-                    "endOffset": 38177
+                    "endOffset": 38171
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4414,9 +4414,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 38182,
+                    "startOffset": 38176,
                     "endColumn": 89,
-                    "endOffset": 38267
+                    "endOffset": 38261
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4433,9 +4433,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 38272,
+                    "startOffset": 38266,
                     "endColumn": 87,
-                    "endOffset": 38355
+                    "endOffset": 38349
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4452,9 +4452,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 38360,
+                    "startOffset": 38354,
                     "endColumn": 95,
-                    "endOffset": 38451
+                    "endOffset": 38445
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4471,10 +4471,10 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 38456,
+                    "startOffset": 38450,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 38770
+                    "endOffset": 38764
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/values/styles.xml",
@@ -4492,9 +4492,9 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 38775,
+                    "startOffset": 38769,
                     "endColumn": 89,
-                    "endOffset": 38860
+                    "endOffset": 38854
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/values/styles.xml",
@@ -4511,10 +4511,10 @@
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 38865,
+                    "startOffset": 38859,
                     "endLine": 290,
                     "endColumn": 12,
-                    "endOffset": 39010
+                    "endOffset": 39004
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/values/styles.xml",
@@ -4532,9 +4532,9 @@
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 39015,
+                    "startOffset": 39009,
                     "endColumn": 79,
-                    "endOffset": 39090
+                    "endOffset": 39084
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/src/main/res/values/styles.xml",
@@ -4551,10 +4551,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 39095,
+                    "startOffset": 39089,
                     "endLine": 298,
                     "endColumn": 12,
-                    "endOffset": 39591
+                    "endOffset": 39585
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4572,9 +4572,9 @@
                 "to": {
                     "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 39596,
+                    "startOffset": 39590,
                     "endColumn": 88,
-                    "endOffset": 39680
+                    "endOffset": 39674
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4591,10 +4591,10 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 39685,
+                    "startOffset": 39679,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 39927
+                    "endOffset": 39921
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4612,10 +4612,10 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 39932,
+                    "startOffset": 39926,
                     "endLine": 307,
                     "endColumn": 12,
-                    "endOffset": 40208
+                    "endOffset": 40202
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4633,10 +4633,10 @@
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 40213,
+                    "startOffset": 40207,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 40493
+                    "endOffset": 40487
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4654,10 +4654,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 40498,
+                    "startOffset": 40492,
                     "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 40886
+                    "endOffset": 40880
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4675,10 +4675,10 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 40891,
+                    "startOffset": 40885,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 41363
+                    "endOffset": 41357
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4696,10 +4696,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 41368,
+                    "startOffset": 41362,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 41585
+                    "endOffset": 41579
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4717,10 +4717,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 41590,
+                    "startOffset": 41584,
                     "endLine": 333,
                     "endColumn": 12,
-                    "endOffset": 41807
+                    "endOffset": 41801
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4738,10 +4738,10 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 41812,
+                    "startOffset": 41806,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 42075
+                    "endOffset": 42069
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4759,10 +4759,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 42080,
+                    "startOffset": 42074,
                     "endLine": 342,
                     "endColumn": 12,
-                    "endOffset": 42302
+                    "endOffset": 42296
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4780,10 +4780,10 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 42307,
+                    "startOffset": 42301,
                     "endLine": 346,
                     "endColumn": 12,
-                    "endOffset": 42532
+                    "endOffset": 42526
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4801,10 +4801,10 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 42537,
+                    "startOffset": 42531,
                     "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 42762
+                    "endOffset": 42756
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4822,10 +4822,10 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 42767,
+                    "startOffset": 42761,
                     "endLine": 354,
                     "endColumn": 12,
-                    "endOffset": 42992
+                    "endOffset": 42986
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4843,10 +4843,10 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 42997,
+                    "startOffset": 42991,
                     "endLine": 358,
                     "endColumn": 12,
-                    "endOffset": 43222
+                    "endOffset": 43216
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4864,10 +4864,10 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 43227,
+                    "startOffset": 43221,
                     "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 43449
+                    "endOffset": 43443
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4885,10 +4885,10 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 43454,
+                    "startOffset": 43448,
                     "endLine": 366,
                     "endColumn": 12,
-                    "endOffset": 43688
+                    "endOffset": 43682
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4906,10 +4906,10 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 43693,
+                    "startOffset": 43687,
                     "endLine": 370,
                     "endColumn": 12,
-                    "endOffset": 43914
+                    "endOffset": 43908
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4927,10 +4927,10 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 43919,
+                    "startOffset": 43913,
                     "endLine": 374,
                     "endColumn": 12,
-                    "endOffset": 44159
+                    "endOffset": 44153
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4948,10 +4948,10 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 44164,
+                    "startOffset": 44158,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 44289
+                    "endOffset": 44283
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4969,10 +4969,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 44294,
+                    "startOffset": 44288,
                     "endLine": 378,
                     "endColumn": 12,
-                    "endOffset": 44419
+                    "endOffset": 44413
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4990,10 +4990,10 @@
                 "to": {
                     "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 44424,
+                    "startOffset": 44418,
                     "endLine": 382,
                     "endColumn": 12,
-                    "endOffset": 44649
+                    "endOffset": 44643
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5011,10 +5011,10 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 44654,
+                    "startOffset": 44648,
                     "endLine": 386,
                     "endColumn": 12,
-                    "endOffset": 44897
+                    "endOffset": 44891
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5032,10 +5032,10 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 44902,
+                    "startOffset": 44896,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 45116
+                    "endOffset": 45110
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5053,10 +5053,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 45121,
+                    "startOffset": 45115,
                     "endLine": 395,
                     "endColumn": 12,
-                    "endOffset": 45399
+                    "endOffset": 45393
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5074,10 +5074,10 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 45404,
+                    "startOffset": 45398,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 45607
+                    "endOffset": 45601
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5095,10 +5095,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 45612,
+                    "startOffset": 45606,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 45738
+                    "endOffset": 45732
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5116,10 +5116,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 45743,
+                    "startOffset": 45737,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 45965
+                    "endOffset": 45959
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5137,10 +5137,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 45970,
+                    "startOffset": 45964,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 46211
+                    "endOffset": 46205
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5158,10 +5158,10 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 46216,
+                    "startOffset": 46210,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 46436
+                    "endOffset": 46430
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5179,10 +5179,10 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 46441,
+                    "startOffset": 46435,
                     "endLine": 418,
                     "endColumn": 12,
-                    "endOffset": 46683
+                    "endOffset": 46677
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5200,10 +5200,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 46688,
+                    "startOffset": 46682,
                     "endLine": 422,
                     "endColumn": 12,
-                    "endOffset": 46904
+                    "endOffset": 46898
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5221,10 +5221,10 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 46909,
+                    "startOffset": 46903,
                     "endLine": 426,
                     "endColumn": 12,
-                    "endOffset": 47149
+                    "endOffset": 47143
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5242,10 +5242,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 47154,
+                    "startOffset": 47148,
                     "endLine": 430,
                     "endColumn": 12,
-                    "endOffset": 47423
+                    "endOffset": 47417
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5263,10 +5263,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 47428,
+                    "startOffset": 47422,
                     "endLine": 434,
                     "endColumn": 12,
-                    "endOffset": 47724
+                    "endOffset": 47718
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5284,10 +5284,10 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 47729,
+                    "startOffset": 47723,
                     "endLine": 438,
                     "endColumn": 12,
-                    "endOffset": 48048
+                    "endOffset": 48042
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5305,10 +5305,10 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 48053,
+                    "startOffset": 48047,
                     "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 48339
+                    "endOffset": 48333
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5326,10 +5326,10 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 48344,
+                    "startOffset": 48338,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 48653
+                    "endOffset": 48647
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5347,9 +5347,9 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 48658,
+                    "startOffset": 48652,
                     "endColumn": 136,
-                    "endOffset": 48790
+                    "endOffset": 48784
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5366,9 +5366,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 48795,
+                    "startOffset": 48789,
                     "endColumn": 130,
-                    "endOffset": 48921
+                    "endOffset": 48915
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5385,9 +5385,9 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 48926,
+                    "startOffset": 48920,
                     "endColumn": 104,
-                    "endOffset": 49026
+                    "endOffset": 49020
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5404,10 +5404,10 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 49031,
+                    "startOffset": 49025,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 49230
+                    "endOffset": 49224
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5425,10 +5425,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 49235,
+                    "startOffset": 49229,
                     "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 49438
+                    "endOffset": 49432
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5446,10 +5446,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 49443,
+                    "startOffset": 49437,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 49562
+                    "endOffset": 49556
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5467,10 +5467,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 49567,
+                    "startOffset": 49561,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 49686
+                    "endOffset": 49680
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5488,9 +5488,9 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 49691,
+                    "startOffset": 49685,
                     "endColumn": 104,
-                    "endOffset": 49791
+                    "endOffset": 49785
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5507,9 +5507,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 49796,
+                    "startOffset": 49790,
                     "endColumn": 116,
-                    "endOffset": 49908
+                    "endOffset": 49902
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5526,10 +5526,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 49913,
+                    "startOffset": 49907,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 50122
+                    "endOffset": 50116
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5547,10 +5547,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 50127,
+                    "startOffset": 50121,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 50268
+                    "endOffset": 50262
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5568,10 +5568,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 50273,
+                    "startOffset": 50267,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 50408
+                    "endOffset": 50402
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5589,10 +5589,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 50413,
+                    "startOffset": 50407,
                     "endLine": 470,
                     "endColumn": 12,
-                    "endOffset": 50494
+                    "endOffset": 50488
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5610,10 +5610,10 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 50499,
+                    "startOffset": 50493,
                     "endLine": 475,
                     "endColumn": 12,
-                    "endOffset": 50842
+                    "endOffset": 50836
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5631,9 +5631,9 @@
                 "to": {
                     "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 50847,
+                    "startOffset": 50841,
                     "endColumn": 87,
-                    "endOffset": 50930
+                    "endOffset": 50924
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5650,10 +5650,10 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 50935,
+                    "startOffset": 50929,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 51160
+                    "endOffset": 51154
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5671,10 +5671,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 51165,
+                    "startOffset": 51159,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 51578
+                    "endOffset": 51572
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5692,10 +5692,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 51583,
+                    "startOffset": 51577,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 51811
+                    "endOffset": 51805
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5713,9 +5713,9 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 51816,
+                    "startOffset": 51810,
                     "endColumn": 81,
-                    "endOffset": 51893
+                    "endOffset": 51887
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5732,10 +5732,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 51898,
+                    "startOffset": 51892,
                     "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 51991
+                    "endOffset": 51985
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5753,10 +5753,10 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 51996,
+                    "startOffset": 51990,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 52608
+                    "endOffset": 52602
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5774,9 +5774,9 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 52613,
+                    "startOffset": 52607,
                     "endColumn": 99,
-                    "endOffset": 52708
+                    "endOffset": 52702
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5793,10 +5793,10 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 52713,
+                    "startOffset": 52707,
                     "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 52944
+                    "endOffset": 52938
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5814,10 +5814,10 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 52949,
+                    "startOffset": 52943,
                     "endLine": 515,
                     "endColumn": 12,
-                    "endOffset": 53368
+                    "endOffset": 53362
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5835,10 +5835,10 @@
                 "to": {
                     "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 53373,
+                    "startOffset": 53367,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 53607
+                    "endOffset": 53601
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5856,9 +5856,9 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 53612,
+                    "startOffset": 53606,
                     "endColumn": 93,
-                    "endOffset": 53701
+                    "endOffset": 53695
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5875,9 +5875,9 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 53706,
+                    "startOffset": 53700,
                     "endColumn": 88,
-                    "endOffset": 53790
+                    "endOffset": 53784
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5894,10 +5894,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 53795,
+                    "startOffset": 53789,
                     "endLine": 525,
                     "endColumn": 12,
-                    "endOffset": 54027
+                    "endOffset": 54021
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5915,10 +5915,10 @@
                 "to": {
                     "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 54032,
+                    "startOffset": 54026,
                     "endLine": 551,
                     "endColumn": 12,
-                    "endOffset": 55978
+                    "endOffset": 55972
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5936,10 +5936,10 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 55983,
+                    "startOffset": 55977,
                     "endLine": 555,
                     "endColumn": 12,
-                    "endOffset": 56220
+                    "endOffset": 56214
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5957,10 +5957,10 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 56225,
+                    "startOffset": 56219,
                     "endLine": 582,
                     "endColumn": 12,
-                    "endOffset": 58302
+                    "endOffset": 58296
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5978,10 +5978,10 @@
                 "to": {
                     "startLine": 583,
                     "startColumn": 4,
-                    "startOffset": 58307,
+                    "startOffset": 58301,
                     "endLine": 735,
                     "endColumn": 12,
-                    "endOffset": 67984
+                    "endOffset": 67978
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5999,10 +5999,10 @@
                 "to": {
                     "startLine": 736,
                     "startColumn": 4,
-                    "startOffset": 67989,
+                    "startOffset": 67983,
                     "endLine": 757,
                     "endColumn": 12,
-                    "endOffset": 69251
+                    "endOffset": 69245
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6020,10 +6020,10 @@
                 "to": {
                     "startLine": 758,
                     "startColumn": 4,
-                    "startOffset": 69256,
+                    "startOffset": 69250,
                     "endLine": 910,
                     "endColumn": 12,
-                    "endOffset": 79043
+                    "endOffset": 79037
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6041,10 +6041,10 @@
                 "to": {
                     "startLine": 911,
                     "startColumn": 4,
-                    "startOffset": 79048,
+                    "startOffset": 79042,
                     "endLine": 932,
                     "endColumn": 12,
-                    "endOffset": 80324
+                    "endOffset": 80318
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6062,10 +6062,10 @@
                 "to": {
                     "startLine": 933,
                     "startColumn": 4,
-                    "startOffset": 80329,
+                    "startOffset": 80323,
                     "endLine": 939,
                     "endColumn": 12,
-                    "endOffset": 80860
+                    "endOffset": 80854
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6083,10 +6083,10 @@
                 "to": {
                     "startLine": 940,
                     "startColumn": 4,
-                    "startOffset": 80865,
+                    "startOffset": 80859,
                     "endLine": 944,
                     "endColumn": 12,
-                    "endOffset": 81190
+                    "endOffset": 81184
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6104,10 +6104,10 @@
                 "to": {
                     "startLine": 945,
                     "startColumn": 4,
-                    "startOffset": 81195,
+                    "startOffset": 81189,
                     "endLine": 965,
                     "endColumn": 12,
-                    "endOffset": 82313
+                    "endOffset": 82307
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6125,10 +6125,10 @@
                 "to": {
                     "startLine": 966,
                     "startColumn": 4,
-                    "startOffset": 82318,
+                    "startOffset": 82312,
                     "endLine": 970,
                     "endColumn": 12,
-                    "endOffset": 82569
+                    "endOffset": 82563
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6146,10 +6146,10 @@
                 "to": {
                     "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 82574,
+                    "startOffset": 82568,
                     "endLine": 975,
                     "endColumn": 12,
-                    "endOffset": 82805
+                    "endOffset": 82799
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6167,10 +6167,10 @@
                 "to": {
                     "startLine": 976,
                     "startColumn": 4,
-                    "startOffset": 82810,
+                    "startOffset": 82804,
                     "endLine": 985,
                     "endColumn": 12,
-                    "endOffset": 83352
+                    "endOffset": 83346
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6188,10 +6188,10 @@
                 "to": {
                     "startLine": 986,
                     "startColumn": 4,
-                    "startOffset": 83357,
+                    "startOffset": 83351,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 83846
+                    "endOffset": 83840
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6209,10 +6209,10 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 83851,
+                    "startOffset": 83845,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 84451
+                    "endOffset": 84445
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6230,10 +6230,10 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 84456,
+                    "startOffset": 84450,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 84599
+                    "endOffset": 84593
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6251,10 +6251,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 84604,
+                    "startOffset": 84598,
                     "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 85187
+                    "endOffset": 85181
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6272,10 +6272,10 @@
                 "to": {
                     "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 85192,
+                    "startOffset": 85186,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 85751
+                    "endOffset": 85745
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6293,10 +6293,10 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 85756,
+                    "startOffset": 85750,
                     "endLine": 1028,
                     "endColumn": 12,
-                    "endOffset": 86126
+                    "endOffset": 86120
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6314,9 +6314,9 @@
                 "to": {
                     "startLine": 1029,
                     "startColumn": 4,
-                    "startOffset": 86131,
+                    "startOffset": 86125,
                     "endColumn": 117,
-                    "endOffset": 86244
+                    "endOffset": 86238
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6333,10 +6333,10 @@
                 "to": {
                     "startLine": 1030,
                     "startColumn": 4,
-                    "startOffset": 86249,
+                    "startOffset": 86243,
                     "endLine": 1038,
                     "endColumn": 12,
-                    "endOffset": 86782
+                    "endOffset": 86776
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6354,10 +6354,10 @@
                 "to": {
                     "startLine": 1039,
                     "startColumn": 4,
-                    "startOffset": 86787,
+                    "startOffset": 86781,
                     "endLine": 1041,
                     "endColumn": 12,
-                    "endOffset": 86939
+                    "endOffset": 86933
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6375,10 +6375,10 @@
                 "to": {
                     "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 86944,
+                    "startOffset": 86938,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 87083
+                    "endOffset": 87077
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6396,10 +6396,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 87088,
+                    "startOffset": 87082,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 87403
+                    "endOffset": 87397
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6417,10 +6417,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 87408,
+                    "startOffset": 87402,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 87659
+                    "endOffset": 87653
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6438,10 +6438,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 87664,
+                    "startOffset": 87658,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 87829
+                    "endOffset": 87823
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6459,10 +6459,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 87834,
+                    "startOffset": 87828,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 87970
+                    "endOffset": 87964
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6480,9 +6480,9 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 87975,
+                    "startOffset": 87969,
                     "endColumn": 63,
-                    "endOffset": 88034
+                    "endOffset": 88028
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6499,10 +6499,10 @@
                 "to": {
                     "startLine": 1062,
                     "startColumn": 4,
-                    "startOffset": 88039,
+                    "startOffset": 88033,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 88316
+                    "endOffset": 88310
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6520,10 +6520,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 88321,
+                    "startOffset": 88315,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 88602
+                    "endOffset": 88596
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6541,10 +6541,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 88607,
+                    "startOffset": 88601,
                     "endLine": 1079,
                     "endColumn": 12,
-                    "endOffset": 89278
+                    "endOffset": 89272
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6562,10 +6562,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 89283,
+                    "startOffset": 89277,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 89542
+                    "endOffset": 89536
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6583,10 +6583,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 89547,
+                    "startOffset": 89541,
                     "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 89880
+                    "endOffset": 89874
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6604,10 +6604,10 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 89885,
+                    "startOffset": 89879,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 90233
+                    "endOffset": 90227
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6625,9 +6625,9 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 90238,
+                    "startOffset": 90232,
                     "endColumn": 93,
-                    "endOffset": 90327
+                    "endOffset": 90321
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6644,10 +6644,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 90332,
+                    "startOffset": 90326,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 90513
+                    "endOffset": 90507
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6665,10 +6665,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 90518,
+                    "startOffset": 90512,
                     "endLine": 1105,
                     "endColumn": 12,
-                    "endOffset": 90819
+                    "endOffset": 90813
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6686,10 +6686,10 @@
                 "to": {
                     "startLine": 1106,
                     "startColumn": 4,
-                    "startOffset": 90824,
+                    "startOffset": 90818,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 91081
+                    "endOffset": 91075
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6707,10 +6707,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 91086,
+                    "startOffset": 91080,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 91206
+                    "endOffset": 91200
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6728,10 +6728,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 91211,
+                    "startOffset": 91205,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 91333
+                    "endOffset": 91327
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6749,10 +6749,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 91338,
+                    "startOffset": 91332,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 91572
+                    "endOffset": 91566
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6770,10 +6770,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 91577,
+                    "startOffset": 91571,
                     "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 91783
+                    "endOffset": 91777
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6791,10 +6791,10 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 91788,
+                    "startOffset": 91782,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 91902
+                    "endOffset": 91896
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6812,10 +6812,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 91907,
+                    "startOffset": 91901,
                     "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 92095
+                    "endOffset": 92089
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6833,10 +6833,10 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 92100,
+                    "startOffset": 92094,
                     "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 92550
+                    "endOffset": 92544
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6854,10 +6854,10 @@
                 "to": {
                     "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 92555,
+                    "startOffset": 92549,
                     "endLine": 1136,
                     "endColumn": 12,
-                    "endOffset": 92731
+                    "endOffset": 92725
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6875,10 +6875,10 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 92736,
+                    "startOffset": 92730,
                     "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 92853
+                    "endOffset": 92847
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6896,10 +6896,10 @@
                 "to": {
                     "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 92858,
+                    "startOffset": 92852,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 93112
+                    "endOffset": 93106
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6917,10 +6917,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 93117,
+                    "startOffset": 93111,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 93225
+                    "endOffset": 93219
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6938,10 +6938,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 93230,
+                    "startOffset": 93224,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 93412
+                    "endOffset": 93406
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6959,10 +6959,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 93417,
+                    "startOffset": 93411,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 93514
+                    "endOffset": 93508
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6980,10 +6980,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 93519,
+                    "startOffset": 93513,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 93958
+                    "endOffset": 93952
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7001,10 +7001,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 93963,
+                    "startOffset": 93957,
                     "endLine": 1159,
                     "endColumn": 12,
-                    "endOffset": 94082
+                    "endOffset": 94076
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7022,10 +7022,10 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 94087,
+                    "startOffset": 94081,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 94367
+                    "endOffset": 94361
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7043,10 +7043,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 94372,
+                    "startOffset": 94366,
                     "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 95254
+                    "endOffset": 95248
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7064,10 +7064,10 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 95259,
+                    "startOffset": 95253,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 95548
+                    "endOffset": 95542
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7085,10 +7085,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 95553,
+                    "startOffset": 95547,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 96118
+                    "endOffset": 96112
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7106,10 +7106,10 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 96123,
+                    "startOffset": 96117,
                     "endLine": 1201,
                     "endColumn": 12,
-                    "endOffset": 96850
+                    "endOffset": 96844
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7127,10 +7127,10 @@
                 "to": {
                     "startLine": 1202,
                     "startColumn": 4,
-                    "startOffset": 96855,
+                    "startOffset": 96849,
                     "endLine": 1204,
                     "endColumn": 12,
-                    "endOffset": 97022
+                    "endOffset": 97016
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7148,10 +7148,10 @@
                 "to": {
                     "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 97027,
+                    "startOffset": 97021,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 97358
+                    "endOffset": 97352
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7169,10 +7169,10 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 97363,
+                    "startOffset": 97357,
                     "endLine": 1221,
                     "endColumn": 12,
-                    "endOffset": 98225
+                    "endOffset": 98219
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7190,10 +7190,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 98230,
+                    "startOffset": 98224,
                     "endLine": 1226,
                     "endColumn": 12,
-                    "endOffset": 98503
+                    "endOffset": 98497
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7211,10 +7211,10 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 98508,
+                    "startOffset": 98502,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 99094
+                    "endOffset": 99088
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -7232,10 +7232,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 99099,
+                    "startOffset": 99093,
                     "endLine": 1274,
                     "endColumn": 12,
-                    "endOffset": 101956
+                    "endOffset": 101950
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7253,10 +7253,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 101961,
+                    "startOffset": 101955,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 104958
+                    "endOffset": 104952
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7274,9 +7274,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 104963,
+                    "startOffset": 104957,
                     "endColumn": 61,
-                    "endOffset": 105020
+                    "endOffset": 105014
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7293,10 +7293,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 105025,
+                    "startOffset": 105019,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 105650
+                    "endOffset": 105644
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7314,10 +7314,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 105655,
+                    "startOffset": 105649,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 106264
+                    "endOffset": 106258
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7335,9 +7335,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 106269,
+                    "startOffset": 106263,
                     "endColumn": 85,
-                    "endOffset": 106350
+                    "endOffset": 106344
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7354,10 +7354,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 106355,
+                    "startOffset": 106349,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 106463
+                    "endOffset": 106457
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7375,10 +7375,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 106468,
+                    "startOffset": 106462,
                     "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 106692
+                    "endOffset": 106686
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7396,10 +7396,10 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 106697,
+                    "startOffset": 106691,
                     "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 106852
+                    "endOffset": 106846
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7417,10 +7417,10 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 106857,
+                    "startOffset": 106851,
                     "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 107004
+                    "endOffset": 106998
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7438,10 +7438,10 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 107009,
+                    "startOffset": 107003,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 107175
+                    "endOffset": 107169
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7459,10 +7459,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 107180,
+                    "startOffset": 107174,
                     "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 107342
+                    "endOffset": 107336
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7480,10 +7480,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 107347,
+                    "startOffset": 107341,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 107585
+                    "endOffset": 107579
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7501,10 +7501,10 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 107590,
+                    "startOffset": 107584,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 107755
+                    "endOffset": 107749
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7522,10 +7522,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 107760,
+                    "startOffset": 107754,
                     "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 107928
+                    "endOffset": 107922
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7543,10 +7543,10 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 107933,
+                    "startOffset": 107927,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 108099
+                    "endOffset": 108093
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7564,10 +7564,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 108104,
+                    "startOffset": 108098,
                     "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 108373
+                    "endOffset": 108367
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7585,10 +7585,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 108378,
+                    "startOffset": 108372,
                     "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 108572
+                    "endOffset": 108566
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7606,10 +7606,10 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 108577,
+                    "startOffset": 108571,
                     "endLine": 1376,
                     "endColumn": 12,
-                    "endOffset": 108777
+                    "endOffset": 108771
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7627,10 +7627,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 108782,
+                    "startOffset": 108776,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 109107
+                    "endOffset": 109101
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7648,9 +7648,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 109112,
+                    "startOffset": 109106,
                     "endColumn": 83,
-                    "endOffset": 109191
+                    "endOffset": 109185
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7667,9 +7667,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 109196,
+                    "startOffset": 109190,
                     "endColumn": 95,
-                    "endOffset": 109287
+                    "endOffset": 109281
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7686,9 +7686,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 109292,
+                    "startOffset": 109286,
                     "endColumn": 95,
-                    "endOffset": 109383
+                    "endOffset": 109377
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7705,9 +7705,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 109388,
+                    "startOffset": 109382,
                     "endColumn": 97,
-                    "endOffset": 109481
+                    "endOffset": 109475
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7724,9 +7724,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 109486,
+                    "startOffset": 109480,
                     "endColumn": 99,
-                    "endOffset": 109581
+                    "endOffset": 109575
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7743,9 +7743,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 109586,
+                    "startOffset": 109580,
                     "endColumn": 101,
-                    "endOffset": 109683
+                    "endOffset": 109677
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7762,9 +7762,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 109688,
+                    "startOffset": 109682,
                     "endColumn": 101,
-                    "endOffset": 109785
+                    "endOffset": 109779
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7781,9 +7781,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 109790,
+                    "startOffset": 109784,
                     "endColumn": 101,
-                    "endOffset": 109887
+                    "endOffset": 109881
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7800,9 +7800,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 109892,
+                    "startOffset": 109886,
                     "endColumn": 101,
-                    "endOffset": 109989
+                    "endOffset": 109983
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7819,9 +7819,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 109994,
+                    "startOffset": 109988,
                     "endColumn": 101,
-                    "endOffset": 110091
+                    "endOffset": 110085
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7838,9 +7838,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 110096,
+                    "startOffset": 110090,
                     "endColumn": 99,
-                    "endOffset": 110191
+                    "endOffset": 110185
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7857,9 +7857,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 110196,
+                    "startOffset": 110190,
                     "endColumn": 95,
-                    "endOffset": 110287
+                    "endOffset": 110281
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7876,9 +7876,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 110292,
+                    "startOffset": 110286,
                     "endColumn": 111,
-                    "endOffset": 110399
+                    "endOffset": 110393
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7895,9 +7895,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 110404,
+                    "startOffset": 110398,
                     "endColumn": 128,
-                    "endOffset": 110528
+                    "endOffset": 110522
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7914,9 +7914,9 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 110533,
+                    "startOffset": 110527,
                     "endColumn": 122,
-                    "endOffset": 110651
+                    "endOffset": 110645
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7933,10 +7933,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 110656,
+                    "startOffset": 110650,
                     "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 110805
+                    "endOffset": 110799
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7954,10 +7954,10 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 110810,
+                    "startOffset": 110804,
                     "endLine": 1399,
                     "endColumn": 12,
-                    "endOffset": 110959
+                    "endOffset": 110953
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7975,9 +7975,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 110964,
+                    "startOffset": 110958,
                     "endColumn": 97,
-                    "endOffset": 111057
+                    "endOffset": 111051
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7994,9 +7994,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 111062,
+                    "startOffset": 111056,
                     "endColumn": 113,
-                    "endOffset": 111171
+                    "endOffset": 111165
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8013,9 +8013,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 111176,
+                    "startOffset": 111170,
                     "endColumn": 93,
-                    "endOffset": 111265
+                    "endOffset": 111259
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8032,10 +8032,10 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 111270,
+                    "startOffset": 111264,
                     "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 111405
+                    "endOffset": 111399
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8053,10 +8053,10 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 111410,
+                    "startOffset": 111404,
                     "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 111539
+                    "endOffset": 111533
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8074,9 +8074,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 111544,
+                    "startOffset": 111538,
                     "endColumn": 95,
-                    "endOffset": 111635
+                    "endOffset": 111629
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8093,9 +8093,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 111640,
+                    "startOffset": 111634,
                     "endColumn": 111,
-                    "endOffset": 111747
+                    "endOffset": 111741
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8112,9 +8112,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 111752,
+                    "startOffset": 111746,
                     "endColumn": 99,
-                    "endOffset": 111847
+                    "endOffset": 111841
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8131,9 +8131,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 111852,
+                    "startOffset": 111846,
                     "endColumn": 115,
-                    "endOffset": 111963
+                    "endOffset": 111957
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8150,9 +8150,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 111968,
+                    "startOffset": 111962,
                     "endColumn": 95,
-                    "endOffset": 112059
+                    "endOffset": 112053
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8169,9 +8169,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 112064,
+                    "startOffset": 112058,
                     "endColumn": 111,
-                    "endOffset": 112171
+                    "endOffset": 112165
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8188,10 +8188,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 112176,
+                    "startOffset": 112170,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 112311
+                    "endOffset": 112305
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8209,9 +8209,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 112316,
+                    "startOffset": 112310,
                     "endColumn": 135,
-                    "endOffset": 112447
+                    "endOffset": 112441
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8228,10 +8228,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 112452,
+                    "startOffset": 112446,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 112611
+                    "endOffset": 112605
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8249,9 +8249,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 112616,
+                    "startOffset": 112610,
                     "endColumn": 129,
-                    "endOffset": 112741
+                    "endOffset": 112735
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8268,10 +8268,10 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 112746,
+                    "startOffset": 112740,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 112899
+                    "endOffset": 112893
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8289,10 +8289,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 112904,
+                    "startOffset": 112898,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 113049
+                    "endOffset": 113043
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8310,9 +8310,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 113054,
+                    "startOffset": 113048,
                     "endColumn": 140,
-                    "endOffset": 113190
+                    "endOffset": 113184
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8329,10 +8329,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 113195,
+                    "startOffset": 113189,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 113334
+                    "endOffset": 113328
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8350,9 +8350,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 113339,
+                    "startOffset": 113333,
                     "endColumn": 134,
-                    "endOffset": 113469
+                    "endOffset": 113463
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8369,9 +8369,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 113474,
+                    "startOffset": 113468,
                     "endColumn": 111,
-                    "endOffset": 113581
+                    "endOffset": 113575
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8388,9 +8388,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 113586,
+                    "startOffset": 113580,
                     "endColumn": 127,
-                    "endOffset": 113709
+                    "endOffset": 113703
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8407,10 +8407,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 113714,
+                    "startOffset": 113708,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 113845
+                    "endOffset": 113839
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8428,10 +8428,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 113850,
+                    "startOffset": 113844,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 113987
+                    "endOffset": 113981
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8449,10 +8449,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 113992,
+                    "startOffset": 113986,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 114129
+                    "endOffset": 114123
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8470,9 +8470,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 114134,
+                    "startOffset": 114128,
                     "endColumn": 111,
-                    "endOffset": 114241
+                    "endOffset": 114235
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8489,9 +8489,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 114246,
+                    "startOffset": 114240,
                     "endColumn": 139,
-                    "endOffset": 114381
+                    "endOffset": 114375
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8508,10 +8508,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 114386,
+                    "startOffset": 114380,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 114582
+                    "endOffset": 114576
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8529,9 +8529,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 114587,
+                    "startOffset": 114581,
                     "endColumn": 91,
-                    "endOffset": 114674
+                    "endOffset": 114668
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8548,10 +8548,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 114679,
+                    "startOffset": 114673,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 114869
+                    "endOffset": 114863
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8569,10 +8569,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 114874,
+                    "startOffset": 114868,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 115053
+                    "endOffset": 115047
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8590,10 +8590,10 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 115058,
+                    "startOffset": 115052,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 115228
+                    "endOffset": 115222
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8611,10 +8611,10 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 115233,
+                    "startOffset": 115227,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 115481
+                    "endOffset": 115475
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8632,10 +8632,10 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 115486,
+                    "startOffset": 115480,
                     "endLine": 1458,
                     "endColumn": 12,
-                    "endOffset": 115772
+                    "endOffset": 115766
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8653,9 +8653,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 115777,
+                    "startOffset": 115771,
                     "endColumn": 67,
-                    "endOffset": 115840
+                    "endOffset": 115834
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8672,9 +8672,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 115845,
+                    "startOffset": 115839,
                     "endColumn": 72,
-                    "endOffset": 115913
+                    "endOffset": 115907
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8691,9 +8691,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 115918,
+                    "startOffset": 115912,
                     "endColumn": 73,
-                    "endOffset": 115987
+                    "endOffset": 115981
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8710,9 +8710,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 115992,
+                    "startOffset": 115986,
                     "endColumn": 72,
-                    "endOffset": 116060
+                    "endOffset": 116054
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8729,9 +8729,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 116065,
+                    "startOffset": 116059,
                     "endColumn": 73,
-                    "endOffset": 116134
+                    "endOffset": 116128
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8748,10 +8748,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 116139,
+                    "startOffset": 116133,
                     "endLine": 1465,
                     "endColumn": 12,
-                    "endOffset": 116280
+                    "endOffset": 116274
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8769,10 +8769,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 116285,
+                    "startOffset": 116279,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 116424
+                    "endOffset": 116418
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8790,10 +8790,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 116429,
+                    "startOffset": 116423,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 116562
+                    "endOffset": 116556
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8811,9 +8811,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 116567,
+                    "startOffset": 116561,
                     "endColumn": 65,
-                    "endOffset": 116628
+                    "endOffset": 116622
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8830,9 +8830,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 116633,
+                    "startOffset": 116627,
                     "endColumn": 89,
-                    "endOffset": 116718
+                    "endOffset": 116712
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8849,9 +8849,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 116723,
+                    "startOffset": 116717,
                     "endColumn": 79,
-                    "endOffset": 116798
+                    "endOffset": 116792
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8868,9 +8868,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 116803,
+                    "startOffset": 116797,
                     "endColumn": 91,
-                    "endOffset": 116890
+                    "endOffset": 116884
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8887,9 +8887,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 116895,
+                    "startOffset": 116889,
                     "endColumn": 97,
-                    "endOffset": 116988
+                    "endOffset": 116982
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8906,10 +8906,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 116993,
+                    "startOffset": 116987,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 117098
+                    "endOffset": 117092
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8927,9 +8927,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 117103,
+                    "startOffset": 117097,
                     "endColumn": 77,
-                    "endOffset": 117176
+                    "endOffset": 117170
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8946,9 +8946,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 117181,
+                    "startOffset": 117175,
                     "endColumn": 105,
-                    "endOffset": 117282
+                    "endOffset": 117276
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8965,9 +8965,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 117287,
+                    "startOffset": 117281,
                     "endColumn": 91,
-                    "endOffset": 117374
+                    "endOffset": 117368
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8984,9 +8984,9 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 117379,
+                    "startOffset": 117373,
                     "endColumn": 103,
-                    "endOffset": 117478
+                    "endOffset": 117472
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9003,9 +9003,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 117483,
+                    "startOffset": 117477,
                     "endColumn": 109,
-                    "endOffset": 117588
+                    "endOffset": 117582
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9022,10 +9022,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 117593,
+                    "startOffset": 117587,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 117710
+                    "endOffset": 117704
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9043,10 +9043,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 117715,
+                    "startOffset": 117709,
                     "endLine": 1487,
                     "endColumn": 12,
-                    "endOffset": 117873
+                    "endOffset": 117867
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9064,10 +9064,10 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 117878,
+                    "startOffset": 117872,
                     "endLine": 1491,
                     "endColumn": 12,
-                    "endOffset": 118030
+                    "endOffset": 118024
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9085,9 +9085,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 118035,
+                    "startOffset": 118029,
                     "endColumn": 79,
-                    "endOffset": 118110
+                    "endOffset": 118104
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9104,9 +9104,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 118115,
+                    "startOffset": 118109,
                     "endColumn": 99,
-                    "endOffset": 118210
+                    "endOffset": 118204
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9123,9 +9123,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 118215,
+                    "startOffset": 118209,
                     "endColumn": 89,
-                    "endOffset": 118300
+                    "endOffset": 118294
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9142,9 +9142,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 118305,
+                    "startOffset": 118299,
                     "endColumn": 109,
-                    "endOffset": 118410
+                    "endOffset": 118404
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9161,9 +9161,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 118415,
+                    "startOffset": 118409,
                     "endColumn": 91,
-                    "endOffset": 118502
+                    "endOffset": 118496
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9180,10 +9180,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 118507,
+                    "startOffset": 118501,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 118602
+                    "endOffset": 118596
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9201,10 +9201,10 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 118607,
+                    "startOffset": 118601,
                     "endLine": 1500,
                     "endColumn": 12,
-                    "endOffset": 118714
+                    "endOffset": 118708
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9222,10 +9222,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 118719,
+                    "startOffset": 118713,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 118828
+                    "endOffset": 118822
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9243,10 +9243,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 118833,
+                    "startOffset": 118827,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 118944
+                    "endOffset": 118938
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9264,10 +9264,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 118949,
+                    "startOffset": 118943,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 119060
+                    "endOffset": 119054
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9285,9 +9285,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 119065,
+                    "startOffset": 119059,
                     "endColumn": 93,
-                    "endOffset": 119154
+                    "endOffset": 119148
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9304,9 +9304,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 119159,
+                    "startOffset": 119153,
                     "endColumn": 113,
-                    "endOffset": 119268
+                    "endOffset": 119262
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9323,9 +9323,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 119273,
+                    "startOffset": 119267,
                     "endColumn": 111,
-                    "endOffset": 119380
+                    "endOffset": 119374
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9342,10 +9342,10 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 119385,
+                    "startOffset": 119379,
                     "endLine": 1511,
                     "endColumn": 12,
-                    "endOffset": 119482
+                    "endOffset": 119476
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9363,10 +9363,10 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 119487,
+                    "startOffset": 119481,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 119602
+                    "endOffset": 119596
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9384,10 +9384,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 119607,
+                    "startOffset": 119601,
                     "endLine": 1515,
                     "endColumn": 12,
-                    "endOffset": 119724
+                    "endOffset": 119718
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9405,9 +9405,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 119729,
+                    "startOffset": 119723,
                     "endColumn": 81,
-                    "endOffset": 119806
+                    "endOffset": 119800
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9424,9 +9424,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 119811,
+                    "startOffset": 119805,
                     "endColumn": 103,
-                    "endOffset": 119910
+                    "endOffset": 119904
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9443,9 +9443,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 119915,
+                    "startOffset": 119909,
                     "endColumn": 119,
-                    "endOffset": 120030
+                    "endOffset": 120024
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9462,9 +9462,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 120035,
+                    "startOffset": 120029,
                     "endColumn": 125,
-                    "endOffset": 120156
+                    "endOffset": 120150
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9481,9 +9481,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 120161,
+                    "startOffset": 120155,
                     "endColumn": 97,
-                    "endOffset": 120254
+                    "endOffset": 120248
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9500,9 +9500,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 120259,
+                    "startOffset": 120253,
                     "endColumn": 93,
-                    "endOffset": 120348
+                    "endOffset": 120342
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9519,9 +9519,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 120353,
+                    "startOffset": 120347,
                     "endColumn": 87,
-                    "endOffset": 120436
+                    "endOffset": 120430
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9538,9 +9538,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 120441,
+                    "startOffset": 120435,
                     "endColumn": 111,
-                    "endOffset": 120548
+                    "endOffset": 120542
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9557,9 +9557,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 120553,
+                    "startOffset": 120547,
                     "endColumn": 115,
-                    "endOffset": 120664
+                    "endOffset": 120658
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9576,9 +9576,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 120669,
+                    "startOffset": 120663,
                     "endColumn": 121,
-                    "endOffset": 120786
+                    "endOffset": 120780
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9595,9 +9595,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 120791,
+                    "startOffset": 120785,
                     "endColumn": 111,
-                    "endOffset": 120898
+                    "endOffset": 120892
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9614,10 +9614,10 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 120903,
+                    "startOffset": 120897,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 121073
+                    "endOffset": 121067
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9635,9 +9635,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 121078,
+                    "startOffset": 121072,
                     "endColumn": 115,
-                    "endOffset": 121189
+                    "endOffset": 121183
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9654,9 +9654,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 121194,
+                    "startOffset": 121188,
                     "endColumn": 85,
-                    "endOffset": 121275
+                    "endOffset": 121269
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9673,9 +9673,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 121280,
+                    "startOffset": 121274,
                     "endColumn": 91,
-                    "endOffset": 121367
+                    "endOffset": 121361
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9692,10 +9692,10 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 121372,
+                    "startOffset": 121366,
                     "endLine": 1534,
                     "endColumn": 12,
-                    "endOffset": 121479
+                    "endOffset": 121473
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9713,10 +9713,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 121484,
+                    "startOffset": 121478,
                     "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 121603
+                    "endOffset": 121597
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9734,9 +9734,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 121608,
+                    "startOffset": 121602,
                     "endColumn": 66,
-                    "endOffset": 121670
+                    "endOffset": 121664
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9753,10 +9753,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 121675,
+                    "startOffset": 121669,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 121796
+                    "endOffset": 121790
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9774,9 +9774,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 121801,
+                    "startOffset": 121795,
                     "endColumn": 67,
-                    "endOffset": 121864
+                    "endOffset": 121858
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9793,10 +9793,10 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 121869,
+                    "startOffset": 121863,
                     "endLine": 1542,
                     "endColumn": 12,
-                    "endOffset": 121992
+                    "endOffset": 121986
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9814,10 +9814,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 121997,
+                    "startOffset": 121991,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 122136
+                    "endOffset": 122130
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9835,10 +9835,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 122141,
+                    "startOffset": 122135,
                     "endLine": 1546,
                     "endColumn": 12,
-                    "endOffset": 122264
+                    "endOffset": 122258
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9856,9 +9856,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 122269,
+                    "startOffset": 122263,
                     "endColumn": 68,
-                    "endOffset": 122333
+                    "endOffset": 122327
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9875,9 +9875,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 122338,
+                    "startOffset": 122332,
                     "endColumn": 94,
-                    "endOffset": 122428
+                    "endOffset": 122422
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9894,9 +9894,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 122433,
+                    "startOffset": 122427,
                     "endColumn": 114,
-                    "endOffset": 122543
+                    "endOffset": 122537
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9913,9 +9913,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 122548,
+                    "startOffset": 122542,
                     "endColumn": 112,
-                    "endOffset": 122656
+                    "endOffset": 122650
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9932,9 +9932,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 122661,
+                    "startOffset": 122655,
                     "endColumn": 98,
-                    "endOffset": 122755
+                    "endOffset": 122749
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9951,9 +9951,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 122760,
+                    "startOffset": 122754,
                     "endColumn": 108,
-                    "endOffset": 122864
+                    "endOffset": 122858
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9970,9 +9970,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 122869,
+                    "startOffset": 122863,
                     "endColumn": 110,
-                    "endOffset": 122975
+                    "endOffset": 122969
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9989,9 +9989,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 122980,
+                    "startOffset": 122974,
                     "endColumn": 110,
-                    "endOffset": 123086
+                    "endOffset": 123080
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10008,9 +10008,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 123091,
+                    "startOffset": 123085,
                     "endColumn": 100,
-                    "endOffset": 123187
+                    "endOffset": 123181
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10027,9 +10027,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 123192,
+                    "startOffset": 123186,
                     "endColumn": 104,
-                    "endOffset": 123292
+                    "endOffset": 123286
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10046,10 +10046,10 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 123297,
+                    "startOffset": 123291,
                     "endLine": 1558,
                     "endColumn": 12,
-                    "endOffset": 123404
+                    "endOffset": 123398
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10067,10 +10067,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 123409,
+                    "startOffset": 123403,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 123534
+                    "endOffset": 123528
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10088,9 +10088,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 123539,
+                    "startOffset": 123533,
                     "endColumn": 90,
-                    "endOffset": 123625
+                    "endOffset": 123619
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10107,9 +10107,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 123630,
+                    "startOffset": 123624,
                     "endColumn": 122,
-                    "endOffset": 123748
+                    "endOffset": 123742
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10126,10 +10126,10 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 123753,
+                    "startOffset": 123747,
                     "endLine": 1564,
                     "endColumn": 12,
-                    "endOffset": 123860
+                    "endOffset": 123854
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10147,9 +10147,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 123865,
+                    "startOffset": 123859,
                     "endColumn": 85,
-                    "endOffset": 123946
+                    "endOffset": 123940
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10166,9 +10166,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 123951,
+                    "startOffset": 123945,
                     "endColumn": 103,
-                    "endOffset": 124050
+                    "endOffset": 124044
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10185,10 +10185,10 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 124055,
+                    "startOffset": 124049,
                     "endLine": 1568,
                     "endColumn": 12,
-                    "endOffset": 124158
+                    "endOffset": 124152
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10206,10 +10206,10 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 124163,
+                    "startOffset": 124157,
                     "endLine": 1570,
                     "endColumn": 12,
-                    "endOffset": 124258
+                    "endOffset": 124252
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10227,10 +10227,10 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 124263,
+                    "startOffset": 124257,
                     "endLine": 1572,
                     "endColumn": 12,
-                    "endOffset": 124376
+                    "endOffset": 124370
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10248,10 +10248,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 124381,
+                    "startOffset": 124375,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 124480
+                    "endOffset": 124474
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10269,10 +10269,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 124485,
+                    "startOffset": 124479,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 124584
+                    "endOffset": 124578
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10290,10 +10290,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 124589,
+                    "startOffset": 124583,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 124710
+                    "endOffset": 124704
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10311,9 +10311,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 124715,
+                    "startOffset": 124709,
                     "endColumn": 87,
-                    "endOffset": 124798
+                    "endOffset": 124792
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10330,9 +10330,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 124803,
+                    "startOffset": 124797,
                     "endColumn": 89,
-                    "endOffset": 124888
+                    "endOffset": 124882
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10349,9 +10349,9 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 124893,
+                    "startOffset": 124887,
                     "endColumn": 109,
-                    "endOffset": 124998
+                    "endOffset": 124992
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10368,9 +10368,9 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 125003,
+                    "startOffset": 124997,
                     "endColumn": 83,
-                    "endOffset": 125082
+                    "endOffset": 125076
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10387,9 +10387,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 125087,
+                    "startOffset": 125081,
                     "endColumn": 83,
-                    "endOffset": 125166
+                    "endOffset": 125160
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10406,9 +10406,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 125171,
+                    "startOffset": 125165,
                     "endColumn": 53,
-                    "endOffset": 125220
+                    "endOffset": 125214
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10425,9 +10425,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 125225,
+                    "startOffset": 125219,
                     "endColumn": 63,
-                    "endOffset": 125284
+                    "endOffset": 125278
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10444,9 +10444,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 125289,
+                    "startOffset": 125283,
                     "endColumn": 105,
-                    "endOffset": 125390
+                    "endOffset": 125384
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10463,9 +10463,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 125395,
+                    "startOffset": 125389,
                     "endColumn": 109,
-                    "endOffset": 125500
+                    "endOffset": 125494
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10482,9 +10482,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 125505,
+                    "startOffset": 125499,
                     "endColumn": 83,
-                    "endOffset": 125584
+                    "endOffset": 125578
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10501,9 +10501,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 125589,
+                    "startOffset": 125583,
                     "endColumn": 119,
-                    "endOffset": 125704
+                    "endOffset": 125698
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10520,10 +10520,10 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 125709,
+                    "startOffset": 125703,
                     "endLine": 1593,
                     "endColumn": 12,
-                    "endOffset": 125922
+                    "endOffset": 125916
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10541,10 +10541,10 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 125927,
+                    "startOffset": 125921,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 126129
+                    "endOffset": 126123
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10562,10 +10562,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 126134,
+                    "startOffset": 126128,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 126288
+                    "endOffset": 126282
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10583,10 +10583,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 126293,
+                    "startOffset": 126287,
                     "endLine": 1609,
                     "endColumn": 12,
-                    "endOffset": 126855
+                    "endOffset": 126849
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10604,10 +10604,10 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 126860,
+                    "startOffset": 126854,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 127216
+                    "endOffset": 127210
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10625,10 +10625,10 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 127221,
+                    "startOffset": 127215,
                     "endLine": 1618,
                     "endColumn": 12,
-                    "endOffset": 127345
+                    "endOffset": 127339
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10646,10 +10646,10 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 127350,
+                    "startOffset": 127344,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 128089
+                    "endOffset": 128083
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10667,10 +10667,10 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 128094,
+                    "startOffset": 128088,
                     "endLine": 1632,
                     "endColumn": 12,
-                    "endOffset": 128269
+                    "endOffset": 128263
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -10688,10 +10688,10 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 128274,
+                    "startOffset": 128268,
                     "endLine": 1638,
                     "endColumn": 12,
-                    "endOffset": 128710
+                    "endOffset": 128704
                 },
                 "from": {
                     "file": "/home/travisws/projects/AndroidStudioProjects/GarageDoorOpener/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",

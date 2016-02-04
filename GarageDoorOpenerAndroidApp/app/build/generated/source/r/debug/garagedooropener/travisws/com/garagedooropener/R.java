@@ -2196,7 +2196,8 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020044;
         public static final int design_fab_background=0x7f020045;
         public static final int design_snackbar_background=0x7f020046;
-        public static final int notification_template_icon_bg=0x7f020047;
+        public static final int door=0x7f020047;
+        public static final int notification_template_icon_bg=0x7f020048;
     }
     public static final class id {
         public static final int EditText01=0x7f0c0073;
@@ -2395,7 +2396,8 @@ containing a value of this type.
         public static final int menu_main=0x7f0d0000;
     }
     public static final class mipmap {
-        public static final int ic_launcher=0x7f030000;
+        public static final int door=0x7f030000;
+        public static final int ic_launcher=0x7f030001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f060000;
